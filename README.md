@@ -1,2 +1,3 @@
 # creditCalculator
-App made in JS, HTML, CSS
+
+Simple App made in JS, HTML, CSS to calculate credit
